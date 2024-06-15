@@ -10,3 +10,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Update mergeable/auto-changelog@RedEyeMods/.github
+
+- [#10](https://github.com/RedEyeMods/DotnetCommon/pull/10) Update mergeable/auto-changelog@RedEyeMods/.github
